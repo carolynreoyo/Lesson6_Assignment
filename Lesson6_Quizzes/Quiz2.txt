@@ -1,0 +1,17 @@
+Title:  Quiz #2
+
+Instructions:  
+The questions do NOT pertain directly to the "Photo Gallery Application", but instead apply to concepts learned in Lesson 6 and this assignment.  Answer the  questions by including your answers in the "Quiz2.txt" file:
+_________________________________________________________________________
+
+Questions:
+
+1.  Name two methods you can use to add a node to the DOM tree, and explain the difference between them.
+parentNode.appendChild(childNode)
+with this method you attach the childnode to the parentnode 
+
+parentNode.insertBefore(newChildNode, existingChildNode)
+with this method you add a node after existing child nodes and you insert the nodes at specific positions
+
+2.  List the six main objects that make up the browser object model. 
+Window, History, Location, Navigator, Screen and Document.
